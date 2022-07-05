@@ -1,2 +1,2 @@
 # programming-expert
-Exercises completed from the [ProgrammingExpert](https://www.programmingexpert.io/) platform (Product of AlgoExpert.io)
+Exercises completed from [ProgrammingExpert](https://www.programmingexpert.io/) (Product of AlgoExpert.io)
