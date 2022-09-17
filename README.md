@@ -1,2 +1,2 @@
 # programming-expert
-Exercises completed from the [ProgrammingExpert](https://www.programmingexpert.io/) platform (AlgoExpert.io)
+Projects completed from the final section of ProgrammingExpert (AlgoExpert.io).
