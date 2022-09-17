@@ -1,7 +1,5 @@
 # programming-expert
-Projects completed from the final section of ProgrammingExpert (AlgoExpert.io).
-
-1. Tournament Game Generator
+#1 Tournament Game Generator
 
 For this project you will be asked to create a program that can schedule games that teams will play in an end of year tournament. You will only be responsible for determining the games played in the first round of the tournament.
 
